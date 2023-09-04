@@ -1,7 +1,7 @@
 /* 
 state string with variable
 create 3 number variables with operations equalling desired output. 
-make varable holder
+make variable holder
 output
 
 */
@@ -17,6 +17,8 @@ const num3 = 13 *3;
 const vaultCode = string + num1 + "-" + num2 +  "-" + num3;
 //output
 console.log(vaultCode);
+document.write(vaultCode);
+
 
 
 
