@@ -16,11 +16,5 @@ const num3 = 13 *3;
 //create a new variable to store string/number variables. 
 const vaultCode = string + num1 + "-" + num2 +  "-" + num3;
 //output
-console.log(vaultCode);
 document.write(vaultCode);
-
-
-
-
-
-
+alert(vaultCode);
